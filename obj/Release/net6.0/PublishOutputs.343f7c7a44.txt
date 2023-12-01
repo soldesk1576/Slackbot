@@ -1,0 +1,8 @@
+C:\Projects\StatusNotifier\obj\Release\net6.0\PubTmp\Out\StatusNotifier.exe
+C:\Projects\StatusNotifier\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\StatusNotifier\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Projects\StatusNotifier\obj\Release\net6.0\PubTmp\Out\StatusNotifier.dll
+C:\Projects\StatusNotifier\obj\Release\net6.0\PubTmp\Out\StatusNotifier.deps.json
+C:\Projects\StatusNotifier\obj\Release\net6.0\PubTmp\Out\StatusNotifier.runtimeconfig.json
+C:\Projects\StatusNotifier\obj\Release\net6.0\PubTmp\Out\StatusNotifier.pdb
+C:\Projects\StatusNotifier\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
